@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+* {
+  font-family: "K2D", serif;
+  font-weight: 300;
+}
