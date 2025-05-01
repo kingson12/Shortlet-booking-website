@@ -4,3 +4,7 @@
   font-family: "K2D", serif;
   font-weight: 300;
 }
+
+a:hover {
+  color: #f87c26;
+}
